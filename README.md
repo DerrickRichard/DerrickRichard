@@ -73,16 +73,16 @@ Badges:
 ## GitHub Widgets & Activity
 
 <!-- Profile / Stats -->
-![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerrickRichard&show_icons=true&count_private=true&theme=default)
+![Derrick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DerrickRichard&show_icons=true&count_private=true&theme=default)
 
 <!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickRichard&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DerrickRichard&layout=compact&theme=default)
 
 <!-- Streaks -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DerrickRichard&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=DerrickRichard&theme=default)
 
 <!-- Activity graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DerrickRichard&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DerrickRichard&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6)
 
 <!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DerrickRichard&theme=default)
