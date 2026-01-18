@@ -73,19 +73,21 @@ Badges:
 ## GitHub Widgets & Activity
 
 <!-- Profile / Stats -->
-![Derrick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DerrickRichard&show_icons=true&count_private=true&theme=default)
+![GitHub Followers](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Followers&query=followers&url=https://api.github.com/users/DerrickRichard)
+![GitHub Stars](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Stars&query=public_repos&url=https://api.github.com/users/DerrickRichard)
 
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DerrickRichard&layout=compact&theme=default)
+<!-- Top languages (reliable version) -->
+![Top Languages](https://img.shields.io/github/languages/top/DerrickRichard/CensorCore-Library?color=0e75b6)
+![Top Languages 2](https://img.shields.io/github/languages/top/DerrickRichard/pothRobotics_25-26?color=0e75b6)
 
-<!-- Streaks -->
-![GitHub Streak](https://streak-stats.demolab.com?user=DerrickRichard&theme=default)
+<!-- Streaks (no reliable alternative exists, replaced with activity badge) -->
+![Commit Activity](https://img.shields.io/github/commit-activity/m/DerrickRichard/DerrickRichard?color=0e75b6)
 
-<!-- Activity graph -->
+<!-- Activity graph (your original one still works, so kept) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DerrickRichard&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6)
 
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=DerrickRichard&theme=default)
+<!-- Trophies (no reliable alternative exists, replaced with repo stats) -->
+![Repo Count](https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/DerrickRichard)
 
 ---
 
